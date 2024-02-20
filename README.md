@@ -23,3 +23,7 @@ UN website has GDP, fertility rate, education level and cost of living index for
 Application will be built progressively, and it can be done in 1 day with all the feature in it.  Github can help to keep track the change, store and organize the application wisely.  It help to integrate all small piece of components into a large fully functional application.  It is open for everyone able to look the codes to see how the application was built.   It also benefit for people who work as a team to keep track the change.  Notification can be sent to remind other people to aware the progress.  It is easy to connect to AWS or GCP those online server to keep the application run over the night with minimum amount of maintenance.   
 
 ## Step 3: Construct a Functional Specification
+
+https://github.com/wuchaiju/MSDS434Project/assets/156159189/bfa8c05a-ce63-43ea-ab15-479c15380b6a
+
+
