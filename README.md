@@ -26,4 +26,13 @@ Application will be built progressively, and it can be done in 1 day with all th
 
 https://github.com/wuchaiju/MSDS434Project/assets/156159189/bfa8c05a-ce63-43ea-ab15-479c15380b6a
 
+## Step 4: Perform a Data Ingest
+
+https://github.com/wuchaiju/MSDS434Project/assets/156159189/aa738c18-946c-4dd8-9442-62142a61df7a
+
+## Step 5: Create a Demonstration
+
+https://github.com/wuchaiju/MSDS434Project/assets/156159189/f84ccbbd-20dc-4cff-b496-dac63a4d21ff
+
+
 
