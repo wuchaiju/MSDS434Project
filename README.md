@@ -34,5 +34,15 @@ https://github.com/wuchaiju/MSDS434Project/assets/156159189/aa738c18-946c-4dd8-9
 
 https://github.com/wuchaiju/MSDS434Project/assets/156159189/f84ccbbd-20dc-4cff-b496-dac63a4d21ff
 
+## Step 6: Implement a Predictive Model
+
+https://github.com/wuchaiju/MSDS434Project/assets/156159189/feae70ce-4c81-424e-a3b1-f45601f953df
+
+## Step 7: Construct a Demonstration of Containerized Microservice Application
+
+https://github.com/wuchaiju/MSDS434Project/assets/156159189/0bd74c82-3172-4b4d-a19d-25fc26e687e4
+
+
+
 
 
